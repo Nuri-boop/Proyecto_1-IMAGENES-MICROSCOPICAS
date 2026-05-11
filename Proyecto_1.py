@@ -85,7 +85,7 @@ def procesar_celulas_final(nombre_img):
 # ============================================================
 try:
     # Llamar a la función con la imagen de prueba "6.jpeg"
-    img_o, img_f, img_s, bord_e, lista_c, conteo = procesar_celulas_final("6.jpeg")
+    img_o, img_f, img_s, bord_e, lista_c, conteo = procesar_celulas_final("4.jpg")
 
     # Crear una figura con 6 subgráficas (2 filas, 3 columnas)
     plt.figure(figsize=(15, 10))
