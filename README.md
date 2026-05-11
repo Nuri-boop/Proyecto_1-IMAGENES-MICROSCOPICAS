@@ -10,4 +10,4 @@ Automated detection, segmentation and counting of cells in microscopic images.
   opencv-python
   scipy
 
-2.-
+2.-pip
